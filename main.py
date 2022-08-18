@@ -1,10 +1,10 @@
 import streamlit as st
 from modules.intro.scripts import intro
-from modules.DecisionTreeClassifier.scripts import DecisionTreeClassfier
+from modules.DecisionTreeClassifier.scripts import DecisionTreeClassfierFunc
 
 pages = {
     "Intro":intro,
-    "DecisionTreeClassifier":DecisionTreeClassfier,
+    "DecisionTreeClassifier":DecisionTreeClassfierFunc,
 }
 
 

@@ -70,3 +70,6 @@ watchdog==2.1.9
 wcwidth==0.2.5
 widgetsnbextension==4.0.1
 zipp==3.8.1
+
+scikit-learn~=1.1.2
+joblib~=1.1.0
